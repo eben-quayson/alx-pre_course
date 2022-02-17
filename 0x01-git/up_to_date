@@ -1,0 +1,9 @@
+Ebenezer-MacBook-Pro:~ Mrlarmah$ cd alx-pre_course
+Ebenezer-MacBook-Pro:alx-pre_course Mrlarmah$ cd 0x01-git
+Ebenezer-MacBook-Pro:0x01-git Mrlarmah$ rm up_to_date
+Ebenezer-MacBook-Pro:0x01-git Mrlarmah$ ls
+bash	c
+Ebenezer-MacBook-Pro:0x01-git Mrlarmah$ touch up_to_date
+Ebenezer-MacBook-Pro:0x01-git Mrlarmah$ ls
+bash		c		up_to_date
+Ebenezer-MacBook-Pro:0x01-git Mrlarmah$ nano up_to_date
